@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ARCHITECTURE.md" />
+    <File Path="promt.md" />
+  </Folder>
+  <Project Path="CXSUN.AppHost/CXSUN.AppHost.csproj" />
+  <Project Path="CXSUN.Server/CXSUN.Server.csproj" />
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
